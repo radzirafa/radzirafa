@@ -34,14 +34,3 @@
 </div>
 
 ---
-
-### 👨‍💻 Tentang Saya
-
-```javascript
-const bio = {
-  name: "[Nama Kamu]",
-  role: "Developer & Creator",
-  location: "Indonesia 🇮🇩",
-  currentFocus: "Membangun project web/mobile modern",
-  interests: ["Coding 💻", "Desain 🎨", "Ngopi ☕", "Game 🎮"]
-};
