@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- FOTO / LOGO PROFIL -->
-  <img src="https://www.instagram.com/daaaaaluh/" width="140" height="140" style="border-radius: 50%;" alt="Logo / Profil" />
+  <img src="https://www.instagram.com/daaaaaluh/" width="140" height="140" style="border-radius: 50%;" alt="" />
 
   # ⚡ Halo, Saya Radzi Rafa! 👋
   
