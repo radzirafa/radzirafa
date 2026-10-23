@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- FOTO / LOGO PROFIL -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIjIV_meY5gzV8HxkJ6-ttPo9zR-gbrrUYpCJ1m4daA&s=10" width="140" height="140" style="border-radius: 100%;" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIjIV_meY5gzV8HxkJ6-ttPo9zR-gbrrUYpCJ1m4daA&s=10" />
+  <img src="https://cdn.wallpapersafari.com/19/48/DqXMP4.jpg" width="140" height="140" style="border-radius: 100%;" alt="https://cdn.wallpapersafari.com/19/48/DqXMP4.jpg" />
 
   # ⚡ Halo, Saya Radzi Rafa! 👋
   
