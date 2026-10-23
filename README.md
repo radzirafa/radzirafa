@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- FOTO / LOGO PROFIL -->
-  <img src="https://www.instagram.com/daaaaaluh/" width="140" height="140" style="border-radius: 50%;" alt="" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTcy6vseZSd9srXkvlX8QVZLAqzEtaHFUH7wqpqpRuAY1goifYpbhb6k&s=10" width="140" height="140" style="border-radius: 50%;" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTcy6vseZSd9srXkvlX8QVZLAqzEtaHFUH7wqpqpRuAY1goifYpbhb6k&s=10" />
 
   # ⚡ Halo, Saya Radzi Rafa! 👋
   
