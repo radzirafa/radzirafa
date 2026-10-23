@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- FOTO / LOGO PROFIL -->
-  <img src="https://share.google/2SHsTePkAQhtoPqas" width="140" height="140" style="border-radius: 50%;" alt="Logo / Profil" />
+  <img src="https://www.instagram.com/mpl.id.official?mdxt=emg4aDllNmFxZ3k3" width="140" height="140" style="border-radius: 50%;" alt="Logo / Profil" />
 
   # ⚡ Halo, Saya Radzi Rafa! 👋
   
