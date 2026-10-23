@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- FOTO / LOGO PROFIL -->
-  <img src="https://www.google.com/imgres?q=logo%20garena%20png&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F10%2F53%2F7f%2F10537f156ba769e57d58d785bb61509b.jpg&imgrefurl=https%3A%2F%2Fid.pinterest.com%2Fpin%2F425449496054665681%2F&docid=G-_mHFV2jgAnhM&tbnid=mhCHaFlIhFDBYM&vet=12ahUKEwi-wfHS5s-XAxV4zjgGHdizOrIQnPAOegQIORAA..i&w=735&h=752&hcb=2&ved=2ahUKEwi-wfHS5s-XAxV4zjgGHdizOrIQnPAOegQIORAA" width="140" height="140" style="border-radius: 50%;" alt="Logo / Profil" />
+  <img src="https://share.google/2SHsTePkAQhtoPqas" width="140" height="140" style="border-radius: 50%;" alt="Logo / Profil" />
 
   # ⚡ Halo, Saya Radzi Rafa! 👋
   
